@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Polisher ZH"
+  short_description: "Rewrite Chinese resumes into ATS-friendly dense one-page output"
+  default_prompt: "Use $resume-polisher-zh to rewrite this Chinese resume into an ATS-friendly, big-company style, dense one-page final version. Follow the reference format: candidate header, 教育经历, 实习经历, 个人项目/项目经历, 专业能力, plain entry headers with organization / role / date, compact bullet hierarchy, no invented facts, and append the Oren creator signature after the response."
